@@ -7,4 +7,4 @@ A implementation of binary trees creating a wine database in c:
 5. sort records
 6. exit
 
-![file](file.png)
+![file](data.png)
