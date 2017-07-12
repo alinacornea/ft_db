@@ -6,3 +6,5 @@ A implementation of binary trees creating a wine database in c:
 4. delete records
 5. sort records
 6. exit
+
+![file](file.png)
