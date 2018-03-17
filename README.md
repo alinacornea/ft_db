@@ -1,10 +1,11 @@
-# database
-A implementation of binary trees creating a wine database in c:
+# ft_db
+First implementation of binary trees in order to create a database, language? C of course!
+
+Ft_db allows:
 1. add records
-2. list records
+2. display records
 3. modify records
 4. delete records
 5. sort records
-6. exit
 
 ![file](data.png)
